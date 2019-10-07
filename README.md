@@ -1,11 +1,7 @@
 # Osu-Tournament-Watch
-The Osu! Tournament Watch is a Spreadsheet that matches tournament specifications with player ratings and preferences to send individualised emails that updates players on what new tournaments are available to them. It triggers daily to send emails, but only to players for whom there are new matching tournaments that they haven't already been told about.
+The <a href=https://docs.google.com/spreadsheets/d/1vbtximQJRxr99NsDvtiUghu3vVQo_JNpdanPme2s7_Y/pubhtml>Osu! Tournament Watch</a> is a Spreadsheet that matches tournament specifications with player ratings and preferences to send individualised emails that updates players on what new tournaments are available to them. It triggers daily to send emails, but only to players for whom there are new matching tournaments that they haven't already been told about.
 
 Tournaments have to be manually entered into a Form, but I am no longer maintaining this project, so the newsletter is basically dead unless someone wants to take up the mantle (or I get around to making a bot that crawls the forums to extract new tournament information, but that's unlikely).
 
-<p align="center">
-  <a href=https://docs.google.com/spreadsheets/d/1vbtximQJRxr99NsDvtiUghu3vVQo_JNpdanPme2s7_Y/pubhtml>
-  <img src="https://drive.google.com/uc?export=view&id=1y3ZU96ZQCMo5WgSu_EIotn5jzMJ4vVaW" title="hover text">
-  </a>
-</p>
 
+  

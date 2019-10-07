@@ -3,9 +3,9 @@ The Osu! Tournament Watch is a Spreadsheet that matches tournament specification
 
 Tournaments have to be manually entered into a Form, but I am no longer maintaining this project, so the newsletter is basically dead unless someone wants to take up the mantle (or I get around to making a bot that crawls the forums to extract new tournament information, but that's unlikely).
 
-https://docs.google.com/spreadsheets/d/1vbtximQJRxr99NsDvtiUghu3vVQo_JNpdanPme2s7_Y/pubhtml
-
 <p align="center">
+  <a href=https://docs.google.com/spreadsheets/d/1vbtximQJRxr99NsDvtiUghu3vVQo_JNpdanPme2s7_Y/pubhtml>
   <img src="https://drive.google.com/uc?export=view&id=1y3ZU96ZQCMo5WgSu_EIotn5jzMJ4vVaW" title="hover text">
+  </a>
 </p>
 

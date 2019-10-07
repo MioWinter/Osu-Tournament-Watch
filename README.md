@@ -5,4 +5,7 @@ Tournaments have to be manually entered into a Form, but I am no longer maintain
 
 https://docs.google.com/spreadsheets/d/1vbtximQJRxr99NsDvtiUghu3vVQo_JNpdanPme2s7_Y/pubhtml
 
-![spreadsheet](https://drive.google.com/uc?export=view&id=1y3ZU96ZQCMo5WgSu_EIotn5jzMJ4vVaW)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1y3ZU96ZQCMo5WgSu_EIotn5jzMJ4vVaW" title="hover text">
+</p>
+
